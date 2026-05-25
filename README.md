@@ -47,12 +47,8 @@ This work leverages **transfer learning with VGG16** to classify maize leaf imag
 
 ---
 
-## 🔁 Reproducibility
+**Developed By:**
 
-To ensure consistent results, a fixed random seed is used across:
-- Python (`random`)
-- NumPy
-- TensorFlow
+Anurag Dhole - Researcher, MIT Manipal
 
-```python
-SEED = 42
+Dr. Jadesha G - Scientist, GKVK, UAS Bangalore
